@@ -1,2 +1,2 @@
 # gitRemote
-mencoba aplikasi git Remote
+mencoba git Remote
